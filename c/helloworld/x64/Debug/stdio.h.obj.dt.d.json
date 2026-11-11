@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\windows kits\\10\\include\\10.0.22621.0\\ucrt\\stdio.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "e:\\windows kits\\10\\include\\10.0.22621.0\\ucrt\\corecrt.h",
+            "e:\\develop\\community\\vc\\tools\\msvc\\14.51.36231\\include\\vcruntime.h",
+            "e:\\develop\\community\\vc\\tools\\msvc\\14.51.36231\\include\\sal.h",
+            "e:\\develop\\community\\vc\\tools\\msvc\\14.51.36231\\include\\concurrencysal.h",
+            "e:\\develop\\community\\vc\\tools\\msvc\\14.51.36231\\include\\vadefs.h",
+            "e:\\windows kits\\10\\include\\10.0.22621.0\\ucrt\\corecrt_wstdio.h",
+            "e:\\windows kits\\10\\include\\10.0.22621.0\\ucrt\\corecrt_stdio_config.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
