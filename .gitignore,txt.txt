@@ -1,0 +1,23 @@
+# ---- 编译产物 ----
+*.exe
+*.obj
+*.o
+*.out
+*.ilk
+*.pdb
+*.idb
+*.obj.enc
+*.tlog
+x64/
+Debug/
+Release/
+.vs/
+
+# ---- 第三方 / 课程源码（本地保留，不提交）----
+missing-semester-master/
+llm/
+
+# ---- 系统文件 ----
+Thumbs.db
+desktop.ini
+.DS_Store
