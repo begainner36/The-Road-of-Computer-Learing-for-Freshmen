@@ -21,5 +21,8 @@
     <ClCompile Include="insert.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="insert2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
