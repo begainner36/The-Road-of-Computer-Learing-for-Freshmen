@@ -27,5 +27,11 @@
     <ClCompile Include="delete.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="reserve.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="reverse.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
