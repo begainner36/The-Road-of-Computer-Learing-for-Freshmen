@@ -139,6 +139,7 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="delete.c" />
     <ClCompile Include="insert.c" />
     <ClCompile Include="insert2.c" />
     <ClCompile Include="linked list.c" />
