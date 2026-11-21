@@ -147,6 +147,8 @@
     <ClCompile Include="reserve.c" />
     <ClCompile Include="reverse.c" />
     <ClCompile Include="reversedemo2.c" />
+    <ClCompile Include="stack.c" />
+    <ClCompile Include="stackreverse.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
